@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm lijfcvsawilson978
 
-<!--
-**lijfcvsawilson978/lijfcvsawilson978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎳 🏄 🌺 Looking to contribute to technical writing 🎳 🏄 🌺
 
-Here are some ideas to get you started:
+## About Me
+🎮 ✨ A designer in algorithms 🎮 ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎮 🏑 🏸 Enthusiastic about artificial intelligence 🎮 🏑 🏸
+
+### Fun Facts
+🎵 🚴 🏊 Innovating in the field of data science 🎵 🚴 🏊
+
+---
+🏊 🎮 🏑 🚀 🏸 Thanks for visiting my profile! 🎸 🎯 🎮 🛶 🚣
